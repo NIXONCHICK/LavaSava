@@ -1,0 +1,6 @@
+@LavaSava.API_HostAddress = http://localhost:5113
+
+GET {{LavaSava.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
